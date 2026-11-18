@@ -1,0 +1,8 @@
+{
+  "name": "worker-latency-benchmark",
+  "main": "worker-latency-benchmark.js",
+  "compatibility_date": "2024-01-01",
+  "placement": {
+    "hostname": "dev.abdulaqil.com"
+  }
+}

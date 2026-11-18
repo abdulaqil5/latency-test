@@ -1,0 +1,24 @@
+# Agent skills and lockfiles
+.agents/
+skills-lock.json
+
+# Environment Secrets
+.env
+.env.*
+!.env.example
+
+# Runtime log and benchmark storage
+probe-buffer/
+*.log
+*.jsonl
+
+# Node dependencies and build artifacts
+node_modules/
+dist/
+.wrangler/
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
